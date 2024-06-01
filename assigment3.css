@@ -1,0 +1,24 @@
+.div1 {
+    background-color: orange;
+    border: rgb(32, 32, 31) solid;
+    height: 150px;
+    padding-top: 200px;
+    padding-left: 250px;
+    padding-bottom: 25px;
+    margin-right: 50px;
+   
+    
+}
+.div1 h4{
+    color: blue;
+}
+.div2 {
+    background-color: orange;
+    border: rgb(32, 32, 31) solid;
+    height: 50px;
+    padding-top: 100px;
+    padding-left: 250px;
+    margin-right: 50px;
+    padding-bottom: 25px;
+
+}
